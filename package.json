@@ -1,0 +1,10 @@
+{
+  "name": "rajschatbot",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^3.x.x"
+  }
+}
