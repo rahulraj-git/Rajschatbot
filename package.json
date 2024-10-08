@@ -5,7 +5,8 @@
     "dev": "nuxt dev"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
     "nuxt": "^3.x.x"
   }
-  
 }
